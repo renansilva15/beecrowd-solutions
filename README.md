@@ -37,3 +37,14 @@
 - [x] [1451 - Broken Keyboard(Python 3)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/1451.py)
 
 ## 9 SQL
+
+- [x] [2602 - Basic Select(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2602.sql)
+- [x] [2603 - Customer Address(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2603.sql)
+- [x] [2604 - Under 10 or Greater Than 100(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2604.sql)
+- [x] [2605 - Executive Representatives(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2605.sql)
+- [x] [2606 - Categories(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2606.sql)
+- [x] [2607 - Providers' City in Alphabetical Order(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2607.sql)
+- [x] [2608 - Higher and Lower Price(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2608.sql)
+- [x] [2609 - Products by Categories(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2609.sql)
+- [x] [2610 - Average Value of Products(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2610.sql)
+- [x] [2615 - Expanding the Business(PostgreSQL)](https://github.com/renansilva15/beecrowd/blob/master/1-iniciante/2615.sql)
