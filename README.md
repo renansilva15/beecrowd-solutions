@@ -36,6 +36,10 @@
 - [x] [1424 - Easy Problem from Rujia Liu?(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1424.py)
 - [x] [1451 - Broken Keyboard(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1451.py)
 
+## 5 MATHEMATICS
+
+- [x] [1197 - Back to High School Physics(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/5-mathematics/1197.py)
+
 ## 9 SQL
 
 - [x] [2602 - Basic Select(PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2602.sql)
