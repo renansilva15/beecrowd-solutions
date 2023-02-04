@@ -2,6 +2,7 @@
 
 ## 1 BEGINNER
 
+- [x] [1000 - Hello World!(JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1000.js)
 - [x] [1011 - Sphere(C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1011.c)
 - [x] [1011 - Sphere(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1011.py)
 - [x] [1040 - Average 3(C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1040.c)
