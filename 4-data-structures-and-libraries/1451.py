@@ -16,7 +16,7 @@ while True:
                     result += end
                     end = ''
 
-                last = i if i == '[' else ''
+                last = i
 
             elif last == '[':
                 home += i
