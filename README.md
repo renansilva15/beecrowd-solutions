@@ -8,6 +8,7 @@
 - [x] [1011 - Sphere(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1011.py)
 - [x] [1040 - Average 3(C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1040.c)
 - [x] [1040 - Average 3(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1040.py)
+- [x] [1103 - Alarm Clock(JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1103.js)
 - [x] [1118 - Several Scores with Validation(C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1118.c)
 - [x] [1118 - Several Scores with Validation(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1118.py)
 - [x] [1145 - Logical Sequence 2(C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1145.c)
