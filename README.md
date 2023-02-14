@@ -33,6 +33,7 @@
 
 - [x] [1257 - Array Hash(C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.c)
 - [x] [1257 - Array Hash(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.py)
+- [x] [1277 - Short Attendance(JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1277.js)
 - [x] [1287 - Friendly Int Parser(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1287.py)
 
 ## 4 DATA STRUCTURES AND LIBRARIES
