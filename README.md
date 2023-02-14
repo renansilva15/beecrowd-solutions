@@ -1,4 +1,4 @@
-# beecrowd-solutions Solutions
+# Beecrowd Solutions
 
 ## 1 BEGINNER
 
