@@ -56,4 +56,5 @@
 - [x] [2608 - Higher and Lower Price(PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2608.sql)
 - [x] [2609 - Products by Categories(PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2609.sql)
 - [x] [2610 - Average Value of Products(PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2610.sql)
+- [x] [2611 - Action Movies(PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2611.sql)
 - [x] [2615 - Expanding the Business(PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2615.sql)
