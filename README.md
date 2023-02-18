@@ -7,6 +7,7 @@
 - [x] [1011 - Sphere(C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1011.c)
 - [x] [1011 - Sphere(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1011.py)
 - [x] [1019 - Time Conversion(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1019.py)
+- [x] [1021 - Banknotes and Coins(Javascript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1021.js)
 - [x] [1040 - Average 3(C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1040.c)
 - [x] [1040 - Average 3(Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1040.py)
 - [x] [1118 - Several Scores with Validation(C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1118.c)
