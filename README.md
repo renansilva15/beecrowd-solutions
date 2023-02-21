@@ -39,6 +39,7 @@
 
 ## 4 DATA STRUCTURES AND LIBRARIES
 
+- [x] [1025 - Where is the Marble? (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1025.c)
 - [x] [1424 - Easy Problem from Rujia Liu? (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1424.py)
 - [x] [1451 - Broken Keyboard (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1451.py)
 
