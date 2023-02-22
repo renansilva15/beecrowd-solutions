@@ -62,3 +62,4 @@
 - [x] [2613 - Cheap Movies (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2613.sql)
 - [x] [2614 - September Rentals (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2614.sql)
 - [x] [2615 - Expanding the Business (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2615.sql)
+- [x] [2616 - No Rental (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2616.sql)
