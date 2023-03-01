@@ -66,3 +66,4 @@
 - [x] [2615 - Expanding the Business (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2615.sql)
 - [x] [2616 - No Rental (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2616.sql)
 - [x] [2617 - Provider Ajax SA (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2617.sql)
+- [x] [2618 - Imported Products (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2618.sql)
