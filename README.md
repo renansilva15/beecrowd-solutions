@@ -27,6 +27,7 @@
 ## 2 AD-HOC
 
 - [x] [1103 - Alarm Clock (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1103.js)
+- [x] [1105 - Sub-prime (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1105.js)
 - [x] [1245 - Lost Boots (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1245.c)
 - [x] [1245 - Lost Boots (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1245.py)
 - [x] [1337 - King’s Poker (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1337.py)
