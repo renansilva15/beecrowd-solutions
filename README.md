@@ -70,3 +70,4 @@
 - [x] [2618 - Imported Products (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2618.sql)
 - [x] [2619 - Super Luxury (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2619.sql)
 - [x] [2620 - Orders in First Half (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2620.sql)
+- [x] [2621 - Amounts Between 10 and 20 (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2621.sql)
