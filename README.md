@@ -11,6 +11,7 @@
 - [x] [1040 - Average 3 (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1040.c)
 - [x] [1040 - Average 3 (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1040.py)
 - [x] [1043 - Triangle (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1043.js)
+- [x] [1045 - Triangle Types (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1045.js)
 - [x] [1118 - Several Scores with Validation (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1118.c)
 - [x] [1118 - Several Scores with Validation (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1118.py)
 - [x] [1145 - Logical Sequence 2 (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1145.c)
