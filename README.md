@@ -36,6 +36,7 @@
 
 ## 3 STRINGS
 
+- [] [1222 - Short Story Competition (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1222.js)
 - [x] [1238 - Combiner (Python)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1238.py)
 - [x] [1257 - Array Hash (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.c)
 - [x] [1257 - Array Hash (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.py)
@@ -73,3 +74,4 @@
 - [x] [2619 - Super Luxury (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2619.sql)
 - [x] [2620 - Orders in First Half (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2620.sql)
 - [x] [2621 - Amounts Between 10 and 20 (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2621.sql)
+- [x] [2622 - Legal Person (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2621.sql)
