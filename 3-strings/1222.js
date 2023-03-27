@@ -5,24 +5,27 @@ let numberOfWords, maximumNumberOfLinesPerPage, maximumNumberOfCharactersPerLine
 
 let machadosShortHistoryLenght;
 
-let numberOflines, characterCount;
+let numberOflines, characterCount, minimumNumberOfPagesTheShortStory;
 
-while (lines.length) {
+while (lines.length - 1) {
     [numberOfWords, maximumNumberOfLinesPerPage, maximumNumberOfCharactersPerLine] = lines.splice(0, 1)[0].split(' ').map(Number);
 
-    machadosShortHistoryLenght = lines.splice(0, 1);
+    machadosShortHistoryLenght = lines.splice(0, 1)[0].split(' ').map(x => x.length);
 
-    machadosShortHistoryLenght[-1] -= 1;
-
-    [numberOflines, characterCount] = [1, 0];
+    [numberOflines, characterCount, minimumNumberOfPagesTheShortStory] = [1, 0, 1];
     for (let i of machadosShortHistoryLenght) {
-        if (characterCount + i.length > maximumNumberOfCharactersPerLine) {
-            numberOflines += 1;
+        if (characterCount + i > maximumNumberOfCharactersPerLine) {
+            numberOflines++;
             characterCount = 0;
+
+            if (numberOflines > maximumNumberOfLinesPerPage) {
+                minimumNumberOfPagesTheShortStory++;
+                numberOflines = 1;
+            }
         }
 
-        characterCount += i.length;
+        characterCount += i + 1;
     }
-    console.log(numberOflines);
-    // console.log(Math.floor(maximumNumberOfLinesPerPage / numberOflines) + maximumNumberOfLinesPerPage % numberOflines);
+    
+    console.log(minimumNumberOfPagesTheShortStory);
 }
