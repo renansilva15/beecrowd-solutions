@@ -37,6 +37,7 @@
 ## 3 STRINGS
 
 - [x] [1222 - Short Story Competition (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1222.js)
+- [x] [1237 - Compare Substring (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1237.js)
 - [x] [1238 - Combiner (Python)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1238.py)
 - [x] [1257 - Array Hash (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.c)
 - [x] [1257 - Array Hash (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.py)

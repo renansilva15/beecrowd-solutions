@@ -1,4 +1,4 @@
-var input = require('fs').readFileSync('../dev/stdin', 'utf8');
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 
 const [a, b, c] = lines[0].split(' ').map(parseFloat).sort((a, b) => b - a);
