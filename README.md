@@ -79,3 +79,4 @@
 - [x] [2623 - Categories with Various Products (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2623.sql)
 - [x] [2624 - Number of Cities per Customers (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2624.sql)
 - [x] [2625 - CPF Validation (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2625.sql)
+- [x] [2737 - Lawyers (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2737.sql)
