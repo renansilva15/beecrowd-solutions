@@ -86,3 +86,5 @@
 - [x] [2740 - League (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2740.sql)
 - [x] [2741 - Students Grades (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2741.sql)
 - [x] [2742 - Richard's Multiverse (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2742.sql)
+- [x] [2743 - Number of Characters (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2743.sql)
+- [x] [2744 - Passwords (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2744.sql)
