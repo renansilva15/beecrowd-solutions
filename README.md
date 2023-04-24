@@ -85,3 +85,4 @@
 - [x] [2739 - Payday (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2739.sql)
 - [x] [2740 - League (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2740.sql)
 - [x] [2741 - Students Grades (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2741.sql)
+- [x] [2742 - Richard's Multiverse (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2742.sql)
