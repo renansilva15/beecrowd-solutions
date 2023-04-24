@@ -84,3 +84,4 @@
 - [x] [2738 - Contest (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2738.sql)
 - [x] [2739 - Payday (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2739.sql)
 - [x] [2740 - League (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2740.sql)
+- [x] [2741 - Students Grades (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2741.sql)
