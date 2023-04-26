@@ -88,3 +88,4 @@
 - [x] [2742 - Richard's Multiverse (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2742.sql)
 - [x] [2743 - Number of Characters (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2743.sql)
 - [x] [2744 - Passwords (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2744.sql)
+- [x] [2745 - Taxes (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2745.sql)
