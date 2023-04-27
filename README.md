@@ -90,3 +90,4 @@
 - [x] [2744 - Passwords (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2744.sql)
 - [x] [2745 - Taxes (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2745.sql)
 - [x] [2746 - Viruses (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2746.sql)
+- [x] [2988 - Cearense Championship (PostgreSQL)](https://github.com/renansilva15/beecrowd-solutions/blob/master/9-sql/2988.sql)
