@@ -40,6 +40,7 @@
 - [x] [1237 - Compare Substring (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1237.c)
 - [x] [1237 - Compare Substring (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1237.js)
 - [x] [1238 - Combiner (Python)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1238.py)
+- [x] [1241 - Fit or Dont Fit II (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1241.js)
 - [x] [1257 - Array Hash (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.c)
 - [x] [1257 - Array Hash (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.py)
 - [x] [1277 - Short Attendance (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1277.js)
@@ -48,6 +49,7 @@
 ## 4 DATA STRUCTURES AND LIBRARIES
 
 - [x] [1025 - Where is the Marble? (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1025.c)
+- [x] [1215 - Andy's First Dictionary (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1215.py)
 - [x] [1424 - Easy Problem from Rujia Liu? (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1424.py)
 - [x] [1451 - Broken Keyboard (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1451.py)
 
