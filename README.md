@@ -28,6 +28,7 @@
 
 ## 2 AD-HOC
 
+- [x] [1089 - Musical Loop (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1089.js)
 - [x] [1103 - Alarm Clock (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1103.js)
 - [x] [1105 - Sub-prime (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1105.js)
 - [x] [1245 - Lost Boots (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/2-ad-hoc/1245.c)
