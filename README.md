@@ -13,6 +13,7 @@
 - [x] [1043 - Triangle (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1043.js)
 - [x] [1045 - Triangle Types (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1045.js)
 - [x] [1046 - Game Time (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1046.js)
+- [x] [1060 - Positive Numbers (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1060.js)
 - [x] [1118 - Several Scores with Validation (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1118.c)
 - [x] [1118 - Several Scores with Validation (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1118.py)
 - [x] [1145 - Logical Sequence 2 (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1145.c)
