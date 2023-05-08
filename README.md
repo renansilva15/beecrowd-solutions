@@ -14,6 +14,7 @@
 - [x] [1045 - Triangle Types (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1045.js)
 - [x] [1046 - Game Time (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1046.js)
 - [x] [1060 - Positive Numbers (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1060.js)
+- [x] [1065 - Even Between five Numbers (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1065.js)
 - [x] [1118 - Several Scores with Validation (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1118.c)
 - [x] [1118 - Several Scores with Validation (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1118.py)
 - [x] [1145 - Logical Sequence 2 (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1145.c)
@@ -51,6 +52,7 @@
 ## 4 DATA STRUCTURES AND LIBRARIES
 
 - [x] [1025 - Where is the Marble? (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1025.c)
+- [x] [1069 - Diamonds and Sand (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1069.cpp)
 - [x] [1215 - Andy's First Dictionary (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1215.py)
 - [x] [1424 - Easy Problem from Rujia Liu? (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1424.py)
 - [x] [1451 - Broken Keyboard (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1451.py)
