@@ -56,6 +56,7 @@
 - [x] [1110 - Throwing Cards Away (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1110.cpp)
 - [x] [1215 - Andy's First Dictionary (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1215.py)
 - [x] [1260 - Hardwood Species (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1260.cpp)
+- [x] [1261 - Hay Points (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1261.cpp)
 - [x] [1424 - Easy Problem from Rujia Liu? (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1424.py)
 - [x] [1451 - Broken Keyboard (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1451.py)
 
