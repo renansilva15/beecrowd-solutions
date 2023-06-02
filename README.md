@@ -31,6 +31,7 @@
 - [x] [1272 - Hidden Message (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1272.py)
 - [x] [2162 - Peaks and Valleys (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/2162.cpp)
 - [x] [2311 - Diving (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/2311.cpp)
+- [x] [2311 - Diving (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/2311.py)
 - [x] [2377 - Pedágio (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/2377.cpp)
 - [x] [2761 - Input and Output of Various Types (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/2761.c)
 - [x] [2761 - Input and Output of Various Types (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/2761.py)
@@ -57,6 +58,7 @@
 - [x] [1257 - Array Hash (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.py)
 - [x] [1277 - Short Attendance (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1277.js)
 - [x] [1287 - Friendly Int Parser (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1287.py)
+- [x] [3300 - Recharged Unlucky Numbers (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/3300.py)
 
 ## 4 DATA STRUCTURES AND LIBRARIES
 
