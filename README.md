@@ -1,5 +1,7 @@
 # Beecrowd Solutions
 
+Be my friend: [renansilva15-ufpi-picos](https://www.beecrowd.com.br/judge/en/profile/249740)
+
 ## 1 BEGINNER
 
 - [x] [1000 - Hello World! (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/1-beginner/1000.js)
