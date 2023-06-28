@@ -59,6 +59,7 @@ Be my friend: [renansilva15-ufpi-picos](https://www.beecrowd.com.br/judge/en/pro
 - [x] [1257 - Array Hash (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.c)
 - [x] [1257 - Array Hash (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1257.py)
 - [x] [1277 - Short Attendance (JavaScript)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1277.js)
+- [x] [1278 - Justifier II (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1277.cpp)
 - [x] [1287 - Friendly Int Parser (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/1287.py)
 - [x] [3300 - Recharged Unlucky Numbers (Python 3)](https://github.com/renansilva15/beecrowd-solutions/blob/master/3-strings/3300.py)
 
