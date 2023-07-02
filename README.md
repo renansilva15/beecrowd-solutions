@@ -66,6 +66,7 @@ Be my friend: [renansilva15-ufpi-picos](https://www.beecrowd.com.br/judge/en/pro
 
 ## 4 DATA STRUCTURES AND LIBRARIES
 
+- [x] [1022 - TDA Rational (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1022.cpp)
 - [x] [1025 - Where is the Marble? (C99)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1025.c)
 - [x] [1069 - Diamonds and Sand (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1069.cpp)
 - [x] [1110 - Throwing Cards Away (C++17)](https://github.com/renansilva15/beecrowd-solutions/blob/master/4-data-structures-and-libraries/1110.cpp)
